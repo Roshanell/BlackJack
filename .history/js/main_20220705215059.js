@@ -1,0 +1,2 @@
+let firstCard = ;
+let secondCard =

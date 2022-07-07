@@ -1,0 +1,65 @@
+/* Box Model Hack */
+* {
+  box-sizing: border-box;
+}
+
+/* Clear fix hack */
+.clearfix:after {
+  content: ".";
+  display: block;
+  clear: both;
+  visibility: hidden;
+  line-height: 0;
+  height: 0;
+}
+
+.clear {
+  clear: both;
+}
+
+/******************************************
+/* BASE STYLES
+/*******************************************/
+
+body {
+  text-align: center;
+  color: white;
+  background-image: url("https://i.imgur.com/lOPipMi.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-size: 20px;
+  height: 100vh;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-weight: bold;
+}
+h1 {
+  color: goldenrod;
+  font-size: 35px;
+}
+#message-el {
+  color: white;
+  font-style: italic;
+}
+
+button{
+  color:#016f32;
+  width: 150px;
+  background-color: goldenrod;
+  border: none;
+  font-weight: bold;
+  border-radius: 2px;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+header {
+}
+
+footer {
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
