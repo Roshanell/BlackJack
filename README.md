@@ -6,13 +6,16 @@ This simple app is a BlackJack app that allows users to click a button and execu
 
 **Link to project:** COMING SOON!
 
-[Recording 2022-07-09 at 18 25 23](https://user-images.githubusercontent.com/96213223/178125698-abbd772e-3123-4dd7-8ba8-e017fb11c4da.gif)
+(https://user-images.githubusercontent.com/96213223/178125698-abbd772e-3123-4dd7-8ba8-e017fb11c4da.gif)
+
+
 
 ## How It's Made:
 
 **Tech used:** HTML, CSS, JavaScript,
 
-I began the project because I wanted more practice with JS without having to follow tutorials and fall victim to tutorial hell. 
+I began the project because I wanted more practice with JS without having to follow tutorials and fall victim to tutorial hell. ![Recording 2022-07-09 at 18 25 23](https://user-images.githubusercontent.com/96213223/178125729-2d23519c-6176-4700-92f2-84646c7c79a2.gif)
+
 
 
 ## Lessons Learned:
