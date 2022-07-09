@@ -1,10 +1,8 @@
 # BlackJack
 
-# My Awesome Project
-
 This simple app is a BlackJack app that allows users to click a button and execute the game.
 
-**Link to project:** COMING SOON!
+**Link to project:** (https://play-black-jack.netlify.app/)
 
 (https://user-images.githubusercontent.com/96213223/178125698-abbd772e-3123-4dd7-8ba8-e017fb11c4da.gif)
 
