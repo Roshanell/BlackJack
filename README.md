@@ -4,9 +4,9 @@
 
 This simple app is a BlackJack app that allows users to click a button and execute the game.
 
-**Link to project:** COMING SOON
+**Link to project:** COMING SOON!
 
-![alt tag](http://placecorgi.com/1200/650)
+[Recording 2022-07-09 at 18 25 23](https://user-images.githubusercontent.com/96213223/178125698-abbd772e-3123-4dd7-8ba8-e017fb11c4da.gif)
 
 ## How It's Made:
 
